@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-dumpconfig",
+    "type": "known-console",
+    "description": "Dump the current running config",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "Export"
+    }
+}
